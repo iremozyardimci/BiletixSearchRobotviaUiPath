@@ -13,4 +13,3 @@ You can see Excel output of the robot below..
 
 ![Excel_1](https://user-images.githubusercontent.com/64749586/161837826-0547d68c-341a-48c6-a5a7-fd2bc2b91be6.JPG)
 ![Excel_2](https://user-images.githubusercontent.com/64749586/161837905-aa7e9cf8-2134-473b-86bf-31cce812ee27.JPG)
-![Excel_3](https://user-images.githubusercontent.com/64749586/161838188-f40c76a3-2d35-40f1-a785-a82f57a0e47d.JPG)
